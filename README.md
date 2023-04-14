@@ -1,7 +1,7 @@
-- 👋 Hello, I'm @abdmelo (Anaximandro Barbosa de Melo)
+- 👋 Hello, I'm @abdmelo (Anaxi Melo)
 - 🇧🇷 Brazilian
 - 🎓 #LifeLongLearning
-- 🧬 Data Scientist, Writer, Specialist in AI / ITC, Creativity, Business, Projects, Finance and Digital Marketing. He is also an Entrepreneur and Teacher.
+- 🧬 Prompt Engineer, Data Scientist, Writer, Specialist in AI / ITC, Creativity, Business, Projects, Finance and Digital Marketing. He is also an Entrepreneur and Teacher.
 - 👀 I'm interested in deep learning and other non-trivial things
 - 🌱 Currently, I am learning cycles of technological innovation in the master's
 - 💞️ I'm looking to collaborate through education
